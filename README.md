@@ -1,2 +1,4 @@
 # spring-core-test
-java
+Basic spring core
+ - Inversion of control
+ - Dependency injection

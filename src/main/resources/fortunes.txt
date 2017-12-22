@@ -1,0 +1,4 @@
+Fortune 1 txt
+Fortune 2 txt
+Fortune 3 txt
+Fortune 4 txt
